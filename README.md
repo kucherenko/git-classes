@@ -2,5 +2,7 @@
 
 Sample repository for git classes.
 
-1. Oleg Tymchako
-2. Andrii Bilorus
+1.Denys Bondarenko=ddeniska81
+2. Oleg Tymchako
+3. Andrii Bilorus
+
