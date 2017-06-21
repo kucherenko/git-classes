@@ -2,4 +2,4 @@
 
 Sample repository for git classes.
 
-Andrii Bilorus
+1. Andrii Bilorus
