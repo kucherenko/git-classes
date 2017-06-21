@@ -1,8 +1,6 @@
-#git-lessons
+1. Andrii Bilorus
+2. Denys Bondarenko=ddeniska81
+3. Andrii Oliinyk
+4. Oleg Tymchak=funb0x
 
-Sample repository for git classes.
-
-1.Denys Bondarenko=ddeniska81
-2. Oleg Tymchak=funb0x
-3. Andrii Bilorus
 
