@@ -2,4 +2,4 @@
 
 Sample repository for git classes.
 
-Oleg Tymchako
+1. Oleg Tymchako
